@@ -1,6 +1,6 @@
 # Udemy Estudos
 
-Nesta pasta irei adicionar alguns códigos para revisão do meu aprendizado de alguns cursos feitos na plataforma Udemy.
+Nesta pasta irei adicionar alguns códigos para revisão do meu aprendizado, referente a alguns cursos feitos na plataforma Udemy.
 
 
 :)
