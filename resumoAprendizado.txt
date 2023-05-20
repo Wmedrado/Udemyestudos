@@ -1,0 +1,14 @@
+Imprime algo na tela: console.log 
+
+Servem para inserir comentários: "/* */, //".
+
+Serve para agrupar um bloco de código: {}
+
+Representa negação: "!", negação 2x: "!!"
+
+NaN : Not a number "Não é um número"
+
+Arrays []
+
+Objetos {}
+
