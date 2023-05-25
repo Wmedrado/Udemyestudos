@@ -7,19 +7,19 @@ Bem-vindo ao meu repositório de atividades relacionadas ao estudo de diversas l
 
 Neste repositório, estou focado no estudo das seguintes linguagens de programação e tecnologias:
 
-JavaScript
-Angular
-React
-Next.js
-Vue.js
-Node.js
-HTML
-CSS
-jQuery
-Bootstrap
-Webpack
-Gulp
-MySQL
+JavaScript,
+Angular,
+React,
+Next.js,
+Vue.js,
+Node.js,
+HTML,
+CSS,
+jQuery,
+Bootstrap,
+Webpack,
+Gulp,
+MySQL.
 
 :)
 
